@@ -1,0 +1,2 @@
+# Pterodactyl-Script
+Simple script
